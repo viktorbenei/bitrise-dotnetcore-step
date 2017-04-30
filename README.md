@@ -1,2 +1,3 @@
-# bitrise-dotnetcore-step
-Install .NET Core
+# .NET Core Step
+
+Use .NET Core on Bitrise
