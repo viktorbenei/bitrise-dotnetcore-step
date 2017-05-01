@@ -1,4 +1,4 @@
-title: ".NET Core"
+title: "Install .NET Core"
 summary: Installs the .NET Core SDK
 description: |-
   Installs the .NET Core SDK
@@ -7,10 +7,9 @@ source_code_url: https://github.com/stefandevo/bitrise-dotnetcore-step
 support_url: https://github.com/stefandevo/bitrise-dotnetcore-step/issues
 host_os_tags:
   - osx-10.10
-project_type_tags:
-  - xamarin
+project_type_tags: []
 type_tags:
-  - build
+  - utility
 is_requires_admin_user: false
 is_always_run: false
 is_skippable: false
