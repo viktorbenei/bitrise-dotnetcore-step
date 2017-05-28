@@ -1,3 +1,6 @@
+#!/bin/bash
+set -ex
+
 echo "Installing .NET core"
 echo "--------------------"
 echo ""
